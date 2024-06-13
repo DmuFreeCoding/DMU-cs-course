@@ -7,11 +7,11 @@
 
 大连海事大学信息学院课程资料。
 
-受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker) 等项目启发，我们决定将**大连海事大学**信息学院课程的历年资料整理出来，以利后人。上述两项目对本资料集有重要影响，在这里向他们表示感谢。
+受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker), 以及[`南京邮电大学课程攻略共享计划`](https://njuptfreeexams.github.io/)等项目启发，我们决定将**大连海事大学**信息学院课程的历年资料整理出来，以利后人。上述项目对本资料集有重要影响，在这里向他们表示感谢。
 
 ## 说明
 
-📍 在使用本项目的资料之前，请务必阅读：[`DMU-cs-course 使用说明`](https://njuptfreeexams.github.io/UserGuide.html).
+📍 在使用本项目的资料之前，请务必阅读：[`使用说明`](https://njuptfreeexams.github.io/UserGuide.html).
 
 1. **本 repo 下资料仅供个人学习交流使用，请在下载后 24 小时内删除。如有侵权，请及时与我们联系。**
 2. 资料仅供参考，请自己判断适用性。
@@ -37,7 +37,9 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 资料列表
 
-### 二中队
+### 信息学院2中队
+
+#### 科目
 
 1. 安卓应用开发技术
 2. dotnet
@@ -55,7 +57,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 14. 移动交互技术
 15. 软件工程
 
-### 小学期课设
+#### 小学期课设
 
 1. C 语言 学生管理系统
 2. 计组
